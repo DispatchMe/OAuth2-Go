@@ -1,7 +1,5 @@
-[![Sample Banner](views/Sample.png)][ss1]
 
-
-# OAuth2 - Go Sample App
+# OAuth2 - Go Example Code
 
 The [Intuit Developer team](https://developer.intuit.com) has written this OAuth 2.0 Sample App in Go programming language to provide working examples of OAuth 2.0 concepts, and how to integrate with Intuit endpoints.
 
